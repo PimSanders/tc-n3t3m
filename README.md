@@ -2,6 +2,8 @@
 
 This project is a Python script designed to run on a LEGO EV3 brick using EV3DEV. It allows you to post network metrics such as delay and loss rate to `tc netem` using EV3 motors and sensors. The metrics are displayed on the EV3 screen and posted to a tc-gui endpoint when the touch sensor is pressed.
 
+![EV3](Image.jpg)
+
 ## Prerequisites
 
 - LEGO EV3 brick with EV3DEV
