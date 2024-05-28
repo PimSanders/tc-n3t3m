@@ -14,7 +14,7 @@ This project is a Python script designed to run on a LEGO EV3 brick using EV3DEV
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/tc-n3t3m.git
+    git clone https://github.com/PimSanders/tc-n3t3m.git
     cd tc-n3t3m
     ```
 
